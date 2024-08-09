@@ -18,14 +18,11 @@
 
 <h3 align="center">
   
-  ***Timepass***<br/>
+  ***(( Timepass ))***
 </h3>
-
-<h6 align="center">
-    |<br/>
-    v<br/>
-    V
-</h6>    
+<h3 align="center">
+    &darr;<br/>
+</h3>    
 <h4 align="center">
   
   Codeforces ID : ***emo.nnn*** <br/>
