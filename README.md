@@ -4,6 +4,10 @@
 "They need you right now, but when they don't, they'll cast you out like a leper"
 - Joker
   ```
+```  
+"When I got enough confidence, the stage was gone"
+- Sophia Loren
+  ```
 </h4>
 <h6 align="center">
   
