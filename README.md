@@ -8,6 +8,11 @@
 "When I got enough confidence, the stage was gone"
 - Sophia Loren
   ```
+```
+"I'll take a quiet life, a handshake of carbon monoxide"
+- Radiohead
+```
+
 </h4>
 <h6 align="center">
   
