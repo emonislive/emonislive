@@ -21,7 +21,7 @@
 </h6>
 
 <h6 align="center"> 
-  <img alt="Stats" align="center" width="44%" src="https://github-readme-stats.vercel.app/api?username=emonislive&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img alt="Stats" align="center" width="52%" src="https://github-readme-stats.vercel.app/api?username=emonislive&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img alt="Most Written in" align="center" width="39.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emonislive&layout=compact&theme=tokyonight&hide_border=true"/>
 </h6>
 
