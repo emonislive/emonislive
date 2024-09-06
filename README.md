@@ -27,13 +27,6 @@
 </h6>
 </div>
 
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img alt="GitHub Streak" width="42%" src="https://streak-stats.demolab.com/?user=emonislive&theme=tokyonight&hide_border=true"/>
-  </a>
-</div>
-
-
 <h3 align="center">
   
   ***(( Timepass ))***
