@@ -21,12 +21,17 @@
 </h6>
 
 <div>
-<h6 align="center"> 
-  <img alt="Stats" align="center" width="42%" src="https://github-readme-stats.vercel.app/api?username=emonislive&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img alt="Most Written in" align="center" width="38.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emonislive&layout=compact&theme=tokyonight&hide_border=true"/>
-</h6>
+<h4 align="center"> 
+  <img alt="Stats" align="center" width="370" src="https://github-readme-stats.vercel.app/api?username=emonislive&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img alt="Most Written in" align="center" width="333" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emonislive&layout=compact&theme=tokyonight&hide_border=true"/>
+</h4>
 </div>
-
+<div>
+  <h4 align="center"> 
+    
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=emonislive&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+  </h4>
+</div>
 <h3 align="center">
   
   ***(( Timepass ))***
