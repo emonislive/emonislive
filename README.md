@@ -41,10 +41,10 @@
 </h3>    
 <h4 align="center">
   
-<a href="https://codeforces.com/profile/emo.nnn" target="_blank">Codeforces: emo.nnn</a> <br/>
-<a href="https://www.codechef.com/users/emonn" target="_blank">CodeChef: emonn</a> <br/>
-<a href="https://atcoder.jp/users/emonnn" target="_blank">AtCoder: emonnn</a> <br/>
-<a href="https://judge.beecrowd.com/en/profile/686375" target="_blank">Beecrowd: emonnn </a>
+Codeforces: <a href="https://codeforces.com/profile/emo.nnn" target="_blank">@emo.nnn</a> <br/>
+CodeChef: <a href="https://www.codechef.com/users/emonn" target="_blank">@emonn</a> <br/>
+AtCoder: <a href="https://atcoder.jp/users/emonnn" target="_blank">@emonnn</a> <br/>
+Beecrowd: <a href="https://judge.beecrowd.com/en/profile/686375" target="_blank">@emonnn </a>
 
   
 </h4>
