@@ -41,9 +41,10 @@
 </h3>    
 <h4 align="center">
   
-  Codeforces ID : ***emo.nnn*** <br/>
-  CodeChef ID : ***emonn*** <br/>
-  AtCoder ID : ***emonnn*** <br/>
-  Beecrowd ID : ***emonnn*** <br/>
+<a href="https://codeforces.com/profile/emo.nnn" target="_blank">Codeforces: emo.nnn</a> <br/>
+<a href="https://www.codechef.com/users/emonn" target="_blank">CodeChef: emonn</a> <br/>
+<a href="https://atcoder.jp/users/emonnn" target="_blank">AtCoder: emonnn</a> <br/>
+<a href="https://judge.beecrowd.com/en/profile/686375" target="_blank">Beecrowd: emonnn </a>
+
   
 </h4>
