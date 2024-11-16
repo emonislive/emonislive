@@ -29,7 +29,7 @@
 <div>
   <h4 align="center"> 
     
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=emonislive&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=emonislive&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=FF0FF8&ring=EB0087&fire=EB0000" alt="GitHub Streak" /></a>
   </h4>
 </div>
 <h3 align="center">
