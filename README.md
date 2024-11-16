@@ -32,20 +32,18 @@
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=emonislive&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=FF0FF8&ring=EB0087&fire=EB0000" alt="GitHub Streak" /></a>
   </h4>
 </div>
-<h3 align="center">
-  
-  ***(( Timepass ))***
-</h3>
-<h3 align="center">
-    &darr;<br/>
-</h3>    
-<h4 align="center">
-  
-Codeforces: <a href="https://codeforces.com/profile/emo.nnn" target="_blank">@emo.nnn</a> <br/>
-CodeChef: <a href="https://www.codechef.com/users/emonn" target="_blank">@emonn</a> <br/>
-LeetCode: <a href="https://leetcode.com/u/emonn/">@emonn</a> <br/>
-AtCoder: <a href="https://atcoder.jp/users/emonnn" target="_blank">@emonnn</a> <br/>
-Beecrowd: <a href="https://judge.beecrowd.com/en/profile/686375" target="_blank">@emonnn </a>
 
   
-</h4>
+<div align="center">
+
+### Timepass.. :sleepy:
+
+| <h3> Platform </h3>  | <h3> Handle </h3> |
+| ------------- | ------------- |
+| Codeforces  | <a href="https://codeforces.com/profile/emo.nnn" target="_blank">@emo.nnn</a>  |
+| CodeChef  | <a href="https://www.codechef.com/users/emonn" target="_blank">@emonn</a> |
+| LeetCode  | <a href="https://leetcode.com/u/emonn/">@emonn</a> |
+| AtCoder  | <a href="https://atcoder.jp/users/emonnn" target="_blank">@emonnn</a> |
+| Beecrowd  | <a href="https://judge.beecrowd.com/en/profile/686375" target="_blank">@emonnn </a> |
+  
+</div>
