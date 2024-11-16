@@ -38,12 +38,12 @@
 
 ### <b>`Timepass`..<b> :sleepy:
 
-| <h3> `Platform` </h3>  | <h3> `Handle` </h3>                                                                   |
-| -------------------- | ----------------------------------------------------------------------------------- |
-| `Codeforces`         | <a href="https://codeforces.com/profile/emo.nnn" target="_blank">`@emo.nnn`</a>       |
-| `CodeChef`           | <a href="https://www.codechef.com/users/emonn" target="_blank">`@emonn`</a>           |
-| `LeetCode`           | <a href="https://leetcode.com/u/emonn/">`@emonn`</a>                                  |
-| `AtCoder`            | <a href="https://atcoder.jp/users/emonnn" target="_blank">`@emonnn`</a>               |
-| `Beecrowd`           | <a href="https://judge.beecrowd.com/en/profile/686375" target="_blank">`@emonnn` </a> |
+| <h3> `Platform` </h3>  |                                 <h3> `Handle` </h3>                                   |
+| ---------------------- | ------------------------------------------------------------------------------------- |
+| `Codeforces`           | <a href="https://codeforces.com/profile/emo.nnn" target="_blank">`@emo.nnn`</a>       |
+| `CodeChef`             | <a href="https://www.codechef.com/users/emonn" target="_blank">`@emonn`</a>           |
+| `LeetCode`             | <a href="https://leetcode.com/u/emonn/">`@emonn`</a>                                  |
+| `AtCoder`              | <a href="https://atcoder.jp/users/emonnn" target="_blank">`@emonnn`</a>               |
+| `Beecrowd`             | <a href="https://judge.beecrowd.com/en/profile/686375" target="_blank">`@emonnn` </a> |
   
 </div>
