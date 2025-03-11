@@ -21,16 +21,12 @@
 </h6>
 
 <div>
-<h4 align="center"> 
-  <img alt="Stats" align="center" width="370" src="https://github-readme-stats.vercel.app/api?username=emonislive&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img alt="Most Written in" align="center" width="333" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emonislive&layout=compact&theme=tokyonight&hide_border=true"/>
-</h4>
-</div>
-<div>
-  <h4 align="center"> 
-    
+<h5 align="center"> 
+  <img alt="Stats" align="center" height="192px" src="https://github-readme-stats.vercel.app/api?username=emonislive&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img alt="Most Written in" align="center" height="192px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emonislive&layout=compact&theme=tokyonight&hide_border=true"/>
+  </br></br>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=emonislive&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=FF0FF8&ring=EB0087&fire=EB0000" alt="GitHub Streak" /></a>
-  </h4>
+</h5>
 </div>
 
   
