@@ -2,12 +2,8 @@
 <h4 align="center">
   
   ```  
-"They need you right now, but when they don't, they'll cast you out like a leper"
-- Joker
-  ```
-```  
-"When I got enough confidence, the stage was gone"
-- Sophia Loren
+"It takes half your life before you discover life is a do-it-your-self project"
+- Napoleon Hill
   ```
 ```
 "I'll take a quiet life, a handshake of carbon monoxide"
