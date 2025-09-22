@@ -1,3 +1,4 @@
+![](https://i.imgur.com/waxVImv.png)
 <!-- Quotes -->
 <h4 align="center">
   
@@ -11,6 +12,7 @@
 ```
 </h4>
 
+![](https://i.imgur.com/waxVImv.png)
 <!-- Profile Details -->
 <div>
 <h5 align="center"> 
@@ -24,7 +26,6 @@
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=emonislive&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=FF0FF8&ring=EB0087&fire=EB0000" alt="GitHub Streak" /></a>
 </h5>
 </div>
-
 <!-- Problem Solving Profiles -->
 <div align="center">
   
