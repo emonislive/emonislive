@@ -10,6 +10,11 @@
 "I'll take a quiet life, a handshake of carbon monoxide"
 - Radiohead
 ```
+```
+As my memory rests, but never forgets what I lost
+- Green Day
+```
+
 </h4>
 
 ![](https://i.imgur.com/waxVImv.png)
