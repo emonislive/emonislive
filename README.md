@@ -25,12 +25,16 @@ As my memory rests, but never forgets what I lost
   <a>![](https://komarev.com/ghpvc/?username=emonislive&abbreviated=true&label=Profile+Visited&color=blueviolet&style=for-the-badge)</a> 
   
   </br>
-  <img alt="Stats" align="center" height="192px" src="https://github-readme-stats.vercel.app/api?username=emonislive&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img alt="Most Written in" align="center" height="192px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emonislive&layout=compact&theme=tokyonight&hide_border=true"/>
-  </br></br>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=emonislive&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=FF0FF8&ring=EB0087&fire=EB0000" alt="GitHub Streak" /></a>
+
+  | GitHub Stats | Top Languages | Github Streaks |
+  | ------------ | ------------- | -------------- |
+  | <img alt="Stats" align="center" height="150px" width="400px" src="https://github-readme-stats.vercel.app/api?username=emonislive&show_icons=true&theme=tokyonight&hide_border=true"/> | <img alt="Most Written in" align="center" height="150px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emonislive&layout=compact&theme=tokyonight&hide_border=true"/> | <img height="150px" width="400px" src="https://streak-stats.demolab.com?user=emonislive&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=FF0FF8&ring=EB0087&fire=EB0000" alt="GitHub Streak" /> |
+
 </h5>
 </div>
+
+
+
 <!-- Problem Solving Profiles -->
 <div align="center">
   
