@@ -33,7 +33,7 @@ As my memory rests, but never forgets what I lost
 </h5>
 </div>
 
-</br> </br>
+</br> 
 
 <!-- Problem Solving Profiles -->
 <div align="center" >
