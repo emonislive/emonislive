@@ -28,7 +28,7 @@ As my memory rests, but never forgets what I lost
 
   | GitHub Stats | Top Languages | Github Streaks |
   | ------------ | ------------- | -------------- |
-  | <img alt="Stats" align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=emonislive&show_icons=true&theme=tokyonight&hide_border=true"/> | <img alt="Most Written in" align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emonislive&layout=compact&theme=tokyonight&hide_border=true"/> | <img height="150px" src="https://streak-stats.demolab.com?user=emonislive&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=FF0FF8&ring=EB0087&fire=EB0000" alt="GitHub Streak" /> |
+  | <img alt="Stats" align="center" height="250px" src="https://github-readme-stats.vercel.app/api?username=emonislive&show_icons=true&theme=tokyonight&hide_border=true"/> | <img alt="Most Written in" align="center" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emonislive&layout=compact&theme=tokyonight&hide_border=true"/> | <img height="250px" src="https://streak-stats.demolab.com?user=emonislive&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=FF0FF8&ring=EB0087&fire=EB0000" alt="GitHub Streak" /> |
 
 </h5>
 </div>
@@ -36,16 +36,14 @@ As my memory rests, but never forgets what I lost
 
 
 <!-- Problem Solving Profiles -->
-<div align="center">
-  
-### <b>`Timepass`..<b> :sleepy:
+<div align="center" width="">
 
-| <h3> `Platform` </h3>  |                                 <h3> `Handle` </h3>                                   |
-| ---------------------- | ------------------------------------------------------------------------------------- |
-| `Codeforces`           | <a href="https://codeforces.com/profile/emo.nnn" target="_blank">`@emo.nnn`</a>       |
-| `CodeChef`             | <a href="https://www.codechef.com/users/emonn" target="_blank">`@emonn`</a>           |
-| `LeetCode`             | <a href="https://leetcode.com/u/emonn/">`@emonn`</a>                                  |
-| `AtCoder`              | <a href="https://atcoder.jp/users/emonnn" target="_blank">`@emonnn`</a>               |
-| `Beecrowd`             | <a href="https://judge.beecrowd.com/en/profile/686375" target="_blank">`@emonnn` </a> |
+| <h2> Platform </h2>  |                  <h2> Handle  </h2>                         |
+| -------------------- | ----------------------------------------------------------- |
+| <img alt="Codeforces" align="center" height="100px" width="200px" src="images/cf.png"/>          | <a href="https://codeforces.com/profile/emo.nnn" target="_blank">@emo.nnn</a>      |
+| <img alt="CodeChef" align="center" height="100px" width="200px" src="images/cc.svg"/>            | <a href="https://www.codechef.com/users/emonn" target="_blank">@emonn</a>          |
+| <img alt="LeetCode" align="center" height="100px" width="200px" src="images/lc.png"/>            | <a href="https://leetcode.com/u/emonn/">@emonn</a>                                 |
+| <img alt="AtCoder" align="center" height="100px" width="200px" src="images/ac.png"/>               | <a href="https://atcoder.jp/users/emonnn" target="_blank">@emonnn</a>              |
+| <img alt="Beecrowd" align="center" height="100px" width="200px" src="images/bc.png"/>            | <a href="https://judge.beecrowd.com/en/profile/686375" target="_blank">@emonnn</a> |
   
 </div>
