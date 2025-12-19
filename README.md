@@ -40,8 +40,8 @@ As my memory rests, but never forgets what I lost
 
 <h3> Competitive Programming Summary </h3>
 
-| **Platform** | <img alt="Codeforces" height="50px" width="200px" src="images/cf.png"/> | <img alt="CodeChef" height="50px" width="200px" src="images/cc.svg"/> | <img alt="LeetCode" height="50px" width="200px" src="images/lc.png"/> | <img alt="AtCoder" height="50px" width="220px" src="images/ac.png"/> | <img alt="Beecrowd" height="50px" width="200px" src="images/bc.png"/> |
-|-|--------------------------------------------------------------------------|------------------------------------------------------------------------|-----------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|
-| **Profile** | <a href="https://codeforces.com/profile/emo.nnn" target="_blank">@emo.nnn</a> | <a href="https://www.codechef.com/users/emonn" target="_blank">@emonn</a> | <a href="https://leetcode.com/u/emonn/">@emonn</a> | <a href="https://atcoder.jp/users/emonnn" target="_blank">@emonnn</a> | <a href="https://judge.beecrowd.com/en/profile/686375" target="_blank">@emonnn</a> |
+| <img alt="Codeforces" height="50px" width="200px" src="images/cf.png"/> | <img alt="CodeChef" height="50px" width="200px" src="images/cc.svg"/> | <img alt="LeetCode" height="50px" width="200px" src="images/lc.png"/> | <img alt="AtCoder" height="50px" width="220px" src="images/ac.png"/> | <img alt="Beecrowd" height="50px" width="200px" src="images/bc.png"/> |
+|--------------------------------------------------------------------------|------------------------------------------------------------------------|-----------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|
+|  <a href="https://codeforces.com/profile/emo.nnn" target="_blank">@emo.nnn</a> | <a href="https://www.codechef.com/users/emonn" target="_blank">@emonn</a> | <a href="https://leetcode.com/u/emonn/">@emonn</a> | <a href="https://atcoder.jp/users/emonnn" target="_blank">@emonnn</a> | <a href="https://judge.beecrowd.com/en/profile/686375" target="_blank">@emonnn</a> |
   
 </div>
