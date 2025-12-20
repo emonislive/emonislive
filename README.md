@@ -8,10 +8,6 @@
 <!-- Quotes -->
 <h4 align="center">
   
-  ```  
-"It takes half your life before you discover life is a do-it-your-self project"
-- Napoleon Hill
-  ```
 ```
 "I'll take a quiet life, a handshake of carbon monoxide"
 - Radiohead
