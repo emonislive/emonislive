@@ -1,4 +1,9 @@
-<img alt="line" src="images/line.png"/>
+<h4 align="center">
+
+<a>![](https://komarev.com/ghpvc/?username=emonislive&abbreviated=true&label=Profile+Visited&color=blueviolet&style=for-the-badge)</a> 
+
+</h4>
+
 
 <!-- Quotes -->
 <h4 align="center">
@@ -17,15 +22,11 @@ As my memory rests, but never forgets what I lost
 ```
 
 </h4>
-<img alt="line" src="images/line.png"/>
+
 <!-- Profile Details -->
 <div>
 <h5 align="center"> 
-  
-  <a>![](https://komarev.com/ghpvc/?username=emonislive&abbreviated=true&label=Profile+Visited&color=blueviolet&style=for-the-badge)</a> 
-  
-  </br>
-  
+
   <!-- Problem Solving Profiles 
   
   | **GitHub Stats**  | **Top Languages** | **Github Streaks** |
