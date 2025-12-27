@@ -9,14 +9,10 @@
 
 <!-- Profile Details -->
 <div>
-<h5 align="center"> 
-
-  | <img alt="Stats" align="center" src="https://github-readme-stats.vercel.app/api?username=emonislive&show_icons=true&theme=tokyonight&hide_border=true"/> | <img  src="https://streak-stats.demolab.com?user=emonislive&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=FF0FF8&ring=EB0087&fire=EB0000" alt="GitHub Streak" /> |
+<h5 align="center">
+  
+  | <img align="center" src="https://github-readme-stats.vercel.app/api?username=emonislive&show_icons=true&theme=tokyonight&hide_border=true"/> | <img align="center" src="https://streak-stats.demolab.com?user=emonislive&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=FF0FF8&ring=EB0087&fire=EB0000" /> |
   | ------------- |  -------------- |
-
-  
-  
-
 </h5>
 </div>
 
@@ -24,7 +20,7 @@
 <h4 align="center">
   
 ```
-"I'll take a quiet life, a handshake of carbon monoxide"
+"I'll take a quiet life, a handshake of carbon monoxide."
 - Radiohead
 ```
 
@@ -32,7 +28,7 @@
 
 <div align="center">
 
-  | <img alt="Most Written in" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=emonislive&layout=compact&theme=tokyonight&hide_border=true"/>|
+  | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emonislive&layout=compact&theme=tokyonight&hide_border=true"/>|
   | ------------- | 
   
   
