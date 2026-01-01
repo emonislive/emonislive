@@ -23,6 +23,11 @@
 "I'll take a quiet life, a handshake of carbon monoxide."
 - Radiohead
 ```
+```
+"Let the young man in his desperation go out and hunt.
+If he kills the elephant, his poverty ends. If the elephant kills him, his poverty ends"
+- Pete Edochie
+```
 
 </h4>
 
