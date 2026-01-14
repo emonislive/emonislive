@@ -9,15 +9,15 @@
 
 
 <!-- Profile Details -->
-<div>
-<h5 align="center">
+<div align="center">
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=emonislive&show_icons=true&theme=tokyonight&hide_border=true"/> -->
 <!-- <img align="center" src="https://streak-stats.demolab.com?user=emonislive&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=FF0FF8&ring=EB0087&fire=EB0000" /> -->
+
   
-  |  | <img align="center" src="https://github-readme-streak-stats-vijaypur.vercel.app?user=emonislive&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=FF0FF8&ring=EB0087&fire=EB0000" /> |
+  | <img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=emonislive&custom_title=&show_icons=true&theme=tokyonight&hide_border=true"/> | <img align="center" src="https://github-readme-streak-stats-vijaypur.vercel.app?user=emonislive&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=FF0FF8&ring=EB0087&fire=EB0000" /> |
   | ------------- |  -------------- |
-</h5>
+
 </div>
 
 <!-- Quotes -->
@@ -37,7 +37,7 @@ If he kills the elephant, his poverty ends. If the elephant kills him, his pover
 
 <div align="center">
 
-  | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emonislive&layout=compact&theme=tokyonight&hide_border=true"/>|
+  | <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=emonislive&custom_title=&langs_count=8&layout=compact&show_icons=true&theme=tokyonight&hide_border=true"/> |
   | ------------- | 
   
   
