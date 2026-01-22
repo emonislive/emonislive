@@ -37,8 +37,8 @@ If he kills the elephant, his poverty ends. If the elephant kills him, his pover
 
 <div align="center">
 
-  | <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=emonislive&custom_title=&langs_count=8&layout=compact&show_icons=true&theme=tokyonight&hide_border=true"/> |
-  | ------------- | 
+  | <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=emonislive&custom_title=&langs_count=8&layout=compact&show_icons=true&theme=tokyonight&hide_border=true"/> | ![LeetCode Stats](https://leetcard.jacoblin.cool/emonn?theme=dark&font=Cabin&colors=%231a1b27%2C%20%232B3752%2C%2331938B%2C%20%2331938B%2C%20%23EB0087%2C%20%2389E051%2C%23F1E05A%2C%20%23EB0000) |
+  | ------------- | --------------- |
   
   
 </div>
@@ -55,3 +55,7 @@ If he kills the elephant, his poverty ends. If the elephant kills him, his pover
 |  <p align="center"><a  href="https://codeforces.com/profile/emo.nnn" target="_blank">@emo.nnn</a></p> | <p align="center"><a href="https://www.codechef.com/users/emonn" target="_blank">@emonn</a></p>  | <p align="center"><a href="https://leetcode.com/u/emonn/">@emonn</a></p>  | <p align="center"><a href="https://atcoder.jp/users/emonnn" target="_blank">@emonnn</a></p>  | <p align="center"><a href="https://judge.beecrowd.com/en/profile/686375" target="_blank">@emonnn</a></p>  |
   
 </div>
+
+
+
+
