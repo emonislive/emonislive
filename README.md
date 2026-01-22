@@ -24,8 +24,8 @@
 <h4 align="center">
   
 ```
-"I'll take a quiet life, a handshake of carbon monoxide."
-- Radiohead
+"I know of no better life purpose than to perish in attempting the great and the impossible"
+- Friedrich Nietzsche
 ```
 ```
 "Let the young man in his desperation go out and hunt.
