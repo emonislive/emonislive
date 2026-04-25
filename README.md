@@ -1,14 +1,6 @@
+<h4 align="center">  
  
-
-<h4 align="center">
-  
-```
-Life Update: স্বপ্নের মাঝে নিজেকে হারিয়ে ফেলেছি,
-ভোর আসার অপেক্ষায়, ঘুম ভাঙার অপেক্ষায়।
-- 14.04.2026
-```
-<a>![](https://komarev.com/ghpvc/?username=emonislive&abbreviated=true&label=Profile+Visited&color=blueviolet&style=for-the-badge)</a> 
-
+ <a>![](https://komarev.com/ghpvc/?username=emonislive&abbreviated=true&label=Profile+Visited&color=blueviolet&style=for-the-badge)</a> 
 </h4>
 
 
