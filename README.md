@@ -26,11 +26,6 @@
 "I know of no better life purpose than to perish in attempting the great and the impossible"
 - Friedrich Nietzsche
 ```
-```
-"Let the young man in his desperation go out and hunt.
-If he kills the elephant, his poverty ends. If the elephant kills him, his poverty ends"
-- Pete Edochie
-```
 
 </h4>
 
